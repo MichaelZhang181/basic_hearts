@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1547608024 source:f:\side_project\rand\hearts\main.cpp
+	<iostream>
+	"Card.h"
+	"Pile.h"
+	"Player.h"
+
+1547594836 f:\side_project\rand\hearts\card.h
+	<cstdlib>
+	<iostream>
+
+1547594836 f:\side_project\rand\hearts\pile.h
+	"Card.h"
+	<cstdlib>
+
+1547594836 f:\side_project\rand\hearts\player.h
+	<cstdlib>
+	<iostream>
+	"Pile.h"
+
+1547594836 source:f:\side_project\rand\hearts\pile.cpp
+	<cstdlib>
+	"Card.h"
+	"Pile.h"
+	<time.h>
+
+1547594836 source:f:\side_project\rand\hearts\player.cpp
+	<cstdlib>
+	"Player.h"
+
+1547608320 source:f:\side_project\rand\hearts\card.cpp
+	"Card.h"
+
